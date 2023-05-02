@@ -1,0 +1,10 @@
+str_input = 'abcdef'
+prefix = str_input[:2]
+suffix = str_input[2:]
+char = str_input[4]
+char1 = str_input[-2]
+
+print(prefix)
+print(suffix)
+print(char)
+print(char1)
